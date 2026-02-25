@@ -1,0 +1,17 @@
+# IDE
+.idea/
+.vscode/
+*.sublime-*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Composer
+/vendor/
+
+# Logs
+*.log
+
+# Environment
+.env
