@@ -60,7 +60,7 @@ Sebelum install, pastikan sudah terinstall:
 
 **Menggunakan Git:**
 ```bash
-git clone https://github.com/username/inventaris-fakhri.git
+git clone https://github.com/username/ukk-mumtaz.git
 cd inventaris-fakhri
 ```
 
@@ -74,12 +74,12 @@ Pindahkan folder project ke direktori web server:
 
 **Untuk Laragon:**
 ```
-C:\laragon\www\bahan-ajar-ukk\
+C:\laragon\www\ukk-mumtaz\
 ```
 
 **Untuk XAMPP:**
 ```
-C:\xampp\htdocs\bahan-ajar-ukk\
+C:\xampp\htdocs\ukk-mumtaz\
 ```
 
 ### 3. Setup Database
@@ -121,11 +121,11 @@ $database = "inventaris_fakhri";
 
 **Untuk Laragon:**
 - Pastikan Laragon sudah running
-- Akses: `http://bahan-ajar-ukk.test` atau `http://localhost/bahan-ajar-ukk`
+- Akses: `http://ukk-mumtaz.test` atau `http://localhost/ukk-mumtaz`
 
 **Untuk XAMPP:**
 - Pastikan Apache dan MySQL sudah running
-- Akses: `http://localhost/bahan-ajar-ukk`
+- Akses: `http://localhost/ukk-mumtaz`
 
 ## 🔑 Akun Default
 
@@ -139,7 +139,7 @@ Setelah import database, gunakan akun admin:
 ## 📁 Struktur Folder
 
 ```
-bahan-ajar-ukk/
+ukk-mumtaz/
 ├── app/
 │   ├── assets/              # CSS dan JavaScript
 │   │   ├── css/
